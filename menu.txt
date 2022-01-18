@@ -4,8 +4,8 @@
 /                           /
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
      	 
-				MENÙ VEGANO
-				-----------	
+	MENÙ VEGANO
+	-----------	
 		
 ANTIPASTO:
 
@@ -25,7 +25,7 @@ DESSERT:
 
 BEVANDE:
 
-  Acqua	            5€
+  Acqua			5€
   Birra           	6€
   Coca-Cola       	6€
-	Centrifuga			  8€
+  Centrifuga		8€
