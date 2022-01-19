@@ -49,3 +49,12 @@ BEVANDE:
   Birra           	6€
   Coca-Cola       	6€
   Centrifuga		8€
+
+
+
+  VINI LOCALI:
+  Contea di Sclafani 12€
+  Contessa Entellina 12€
+  Malvasia delle Lipari 15,50€
+  Mamertino di Milazzo 15€
+  Marsala 13,50€
