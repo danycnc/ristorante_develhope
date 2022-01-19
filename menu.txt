@@ -1,47 +1,33 @@
-~~~~~~~~~~~~~~~~~~~~~~~~
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 /                           /
 \   RISTORANTE DEVELHOPE    \
 /                           /
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
      	 
-	MENÙ Del Giorno
+	MENÙ VEGANO
 	-----------	
 		
 ANTIPASTO:
 
-Avena al cavolo nero, olive e limone.
-
-Ingredienti:
-
-340 g di avena
-360 g di cavolo nero
-100 g di olive nere
-1 spicchio di aglio
-1 limone
-Peperoncino
-Sale e pepe
-Olio extravergine d’oliva
-
-
+  Avena al cavolo nero, olive e limone	 8€
 
 
 PRIMO:
 
-Spaghetti aglio olio e peperoncino
+  Spaghetti aglio olio e peperoncino	12€
+
 
 SECONDO:
    
-  Bocconcini di sedano rapa glassato       €8
-  Polpette di soia                         €6
-  Involtino di verza vegan                 €6
-  Burger vegano con patate e shiitake      €8
-
+  Bocconcini di sedano rapa glassato       8€
+  Polpette di soia                         6€
+  Involtino di verza vegan                 6€
+  Burger vegano con patate e shiitake      8€
 
 
 DESSERT:
-  tiramisu>
-  <descricione>late cacao mascarpone uova</descrizione> .
 
+  Tiramisù		5€
 
 BEVANDE:
 
@@ -51,10 +37,10 @@ BEVANDE:
   Centrifuga		8€
 
 
+VINI LOCALI:
 
-  VINI LOCALI:
-  Contea di Sclafani 12€
-  Contessa Entellina 12€
-  Malvasia delle Lipari 15,50€
-  Mamertino di Milazzo 15€
-  Marsala 13,50€
+  Contea di Sclafani		12€
+  Contessa Entellina		12€
+  Malvasia delle Lipari		15,50€
+  Mamertino di Milazzo		15€
+  Marsala			13,50€
