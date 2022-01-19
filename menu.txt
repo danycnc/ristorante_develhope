@@ -1,4 +1,4 @@
- ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 /                           /
 \   RISTORANTE DEVELHOPE    \
 /                           /
@@ -27,7 +27,7 @@ Olio extravergine d’oliva
 
 PRIMO:
 
-
+Spaghetti aglio olio e peperoncino
 
 SECONDO:
 
