@@ -9,18 +9,25 @@
 		
 ANTIPASTO:
 
+  Avena al cavolo nero, olive e limone	 8€
 
 
 PRIMO:
 
+  Spaghetti aglio olio e peperoncino	12€
 
 
 SECONDO:
-
+   
+  Bocconcini di sedano rapa glassato       8€
+  Polpette di soia                         6€
+  Involtino di verza vegan                 6€
+  Burger vegano con patate e shiitake      8€
 
 
 DESSERT:
 
+  Tiramisù		5€
 
 
 BEVANDE:
@@ -31,6 +38,7 @@ BEVANDE:
   Centrifuga		8€
 
 
+VINI LOCALI:
 
   VINI LOCALI:
   Contea di Sclafani 12€
